@@ -1,11 +1,11 @@
 ### Bruno Foro
 
-Desenvolvedor full stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas. Trabalho com aplicações web e desktop, integração de IA em produtos e desenvolvimento orientado a testes.
+Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 
 #### Projetos
 
-- [Laaazy](https://github.com/BrunoVsc09/LaaazyController): central de mídia para Windows controlada por DualShock 4, com catálogo de filmes e séries, biblioteca de jogos e recomendações com IA. Electron, Next.js, React e TypeScript, com arquitetura hexagonal e 557 testes automatizados.
-- Legal Intelligence: aplicação desktop para consulta e monitoramento de processos judiciais pela API DataJud (CNJ), com linha do tempo, alertas e análise assistida por IA. Electron, React, TypeScript, Python, FastAPI e SQLite.
+[![Laaazy](https://img.shields.io/badge/Laaazy-Central_de_m%C3%ADdia_%C2%B7_Electron_%2B_Next.js-0b3f9d?style=for-the-badge&labelColor=1b1f24&logo=electron&logoColor=white)](https://github.com/BrunoVsc09/LaaazyController)
+![Legal Intelligence](https://img.shields.io/badge/Legal_Intelligence-Processos_judiciais_%2B_IA_%C2%B7_FastAPI-5b3cc4?style=for-the-badge&labelColor=1b1f24&logo=fastapi&logoColor=white)
 
 #### Linguagens e ferramentas
 
@@ -22,7 +22,3 @@ Desenvolvedor full stack, cursando o último semestre de Análise e Desenvolvime
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-#### Contato
-
-brunodev09@gmail.com
