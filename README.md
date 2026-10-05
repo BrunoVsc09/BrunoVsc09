@@ -26,6 +26,6 @@ Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 #### Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoVsc09&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Bruno Foro">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVsc09&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
+  <img width="375" src="https://github-readme-stats.vercel.app/api?username=BrunoVsc09&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Bruno Foro">
+  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVsc09&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
 </p>
