@@ -2,6 +2,17 @@
 
 Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 
+#### O que eu faço
+
+- Aplicações desktop e web com Electron, React e Next.js
+- APIs e back-end com Python e FastAPI
+- Integração de IA em produtos (Gemini, OpenAI)
+- Integrações com APIs externas (TMDB, YouTube, DataJud)
+- Arquitetura limpa, hexagonal e modular
+- Desenvolvimento orientado a testes (TDD) e CI
+- Segurança de aplicações: chaves criptografadas e APIs protegidas
+- Automação no Windows (PowerShell, processos e periféricos)
+
 #### Projetos
 
 [![Laaazy](https://img.shields.io/badge/Laaazy-Central_de_m%C3%ADdia_%C2%B7_Electron_%2B_Next.js-0b3f9d?style=for-the-badge&labelColor=1b1f24&logo=electron&logoColor=white)](https://github.com/BrunoVsc09/LaaazyController)
