@@ -1,4 +1,11 @@
-<img src="assets/banner.svg" alt="Olá, eu sou o Bruno Foro — desenvolvedor em formação em Análise e Desenvolvimento de Sistemas" width="100%">
+<img src="assets/bruno-banner.svg" alt="Olá, eu sou o Bruno Foro — desenvolvedor em formação em Análise e Desenvolvimento de Sistemas" width="100%">
+
+<div align="center">
+
+> ### *Build to learn, build to earn.*
+> **Disciplina > intuição.**
+
+</div>
 
 ## 👋 Sobre mim
 
