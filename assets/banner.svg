@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Bruno Foro — desenvolvedor em formação">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#062a6e"/>
+      <stop offset="0.6" stop-color="#0b3f9d"/>
+      <stop offset="1" stop-color="#1760b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#84d3ff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#84d3ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="300" rx="24" fill="url(#glow)"/>
+  <path d="M-20 230 C 280 160, 560 290, 860 200 S 1180 140, 1320 190" fill="none" stroke="url(#wave)" stroke-width="3"/>
+  <path d="M-20 260 C 320 200, 600 310, 900 230 S 1220 180, 1320 225" fill="none" stroke="url(#wave)" stroke-width="2" opacity="0.6"/>
+  <g fill="#ffffff">
+    <circle cx="180" cy="50" r="1.5" opacity="0.6"/><circle cx="520" cy="40" r="1.2" opacity="0.5"/>
+    <circle cx="840" cy="70" r="1.6" opacity="0.6"/><circle cx="1100" cy="44" r="1.3" opacity="0.5"/>
+    <circle cx="1010" cy="250" r="1.2" opacity="0.5"/>
+  </g>
+  <text x="96" y="132" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="30" fill="#ffd23f" font-weight="600">Olá, eu sou o</text>
+  <text x="94" y="196" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="68" font-weight="800" fill="#ffffff" letter-spacing="-1">Bruno Foro</text>
+  <text x="98" y="240" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" fill="#dbe7ff">Desenvolvedor em formação · Análise e Desenvolvimento de Sistemas</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#84d3ff" opacity="0.9">
+    <text x="900" y="118">const bruno = {</text>
+    <text x="924" y="146">curso: "ADS",</text>
+    <text x="924" y="174">foco: "web + desktop",</text>
+    <text x="924" y="202">método: "TDD",</text>
+    <text x="900" y="230">}</text>
+  </g>
+</svg>
