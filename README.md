@@ -22,3 +22,10 @@ Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoVsc09&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Bruno Foro">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVsc09&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
+</p>
