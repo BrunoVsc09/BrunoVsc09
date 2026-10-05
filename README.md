@@ -7,7 +7,7 @@ Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 - Aplicações desktop e web com Electron, React e Next.js
 - APIs e back-end com Python e FastAPI
 - Integração de IA em produtos (Gemini, OpenAI)
-- Integrações com APIs externas (TMDB, YouTube, DataJud)
+- Integrações com APIs externas
 - Arquitetura limpa, hexagonal e modular
 - Desenvolvimento orientado a testes (TDD) e CI
 - Segurança de aplicações: chaves criptografadas e APIs protegidas
