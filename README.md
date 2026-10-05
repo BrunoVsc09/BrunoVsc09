@@ -1,9 +1,8 @@
-<img src="assets/bruno-banner.svg" alt="Olá, eu sou o Bruno Foro — desenvolvedor em formação em Análise e Desenvolvimento de Sistemas" width="100%">
+<img src="assets/banner-lema.svg" alt="Build to learn, build to earn — Bruno Foro, desenvolvedor em formação (ADS)" width="100%">
 
 <div align="center">
 
-> ### *Build to learn, build to earn.*
-> **Disciplina > intuição.**
+**Disciplina > intuição.**
 
 </div>
 
