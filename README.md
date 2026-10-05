@@ -13,6 +13,10 @@ Desenvolvedor full stack. Aplicações web e desktop, IA em produtos e TDD.
 - Segurança de aplicações: chaves criptografadas e APIs protegidas
 - Automação no Windows (PowerShell, processos e periféricos)
 
+#### Filosofia
+
+Ser programador é ter confiança no código e no que você entrega. Faça uma arquitetura limpa e resolva problemas.
+
 #### Projetos
 
 [![Laaazy](https://img.shields.io/badge/Laaazy-Central_de_m%C3%ADdia_%C2%B7_Electron_%2B_Next.js-0b3f9d?style=for-the-badge&labelColor=1b1f24&logo=electron&logoColor=white)](https://github.com/BrunoVsc09/LaaazyController)
