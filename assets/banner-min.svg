@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img" aria-label="Build to learn, build to earn. Disciplina maior que intuição.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#071f52"/>
+      <stop offset="1" stop-color="#0b3f9d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="260" rx="20" fill="url(#bg)"/>
+  <text x="640" y="128" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Build to learn, <tspan fill="#ffd23f">build to earn.</tspan></text>
+  <rect x="610" y="156" width="60" height="3" rx="1.5" fill="#ffd23f"/>
+  <text x="640" y="200" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#9fc3ff" letter-spacing="1">disciplina &gt; intuição</text>
+</svg>

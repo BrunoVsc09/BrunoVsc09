@@ -1,10 +1,4 @@
-<img src="assets/banner-lema.svg" alt="Build to learn, build to earn — Bruno Foro, desenvolvedor em formação (ADS)" width="100%">
-
-<div align="center">
-
-**Disciplina > intuição.**
-
-</div>
+<img src="assets/banner-min.svg" alt="Build to learn, build to earn. Disciplina > intuição." width="100%">
 
 ## 👋 Sobre mim
 
