@@ -19,8 +19,8 @@ Ser programador é ter confiança no código e no que você entrega. Faça uma a
 
 #### Projetos
 
-[![Laaazy](https://img.shields.io/badge/Laaazy-Central_de_m%C3%ADdia_%C2%B7_Electron_%2B_Next.js-0b3f9d?style=for-the-badge&labelColor=1b1f24&logo=electron&logoColor=white)](https://github.com/BrunoVsc09/LaaazyController)
-![Legal Intelligence](https://img.shields.io/badge/Legal_Intelligence-Processos_judiciais_%2B_IA_%C2%B7_FastAPI-5b3cc4?style=for-the-badge&labelColor=1b1f24&logo=fastapi&logoColor=white)
+- [Laaazy](https://github.com/BrunoVsc09/LaaazyController): central de mídia para Windows controlada por DualShock 4. Electron e Next.js.
+- Legal Intelligence: consulta e monitoramento de processos judiciais com análise por IA. Python e FastAPI.
 
 #### Linguagens e ferramentas
 
